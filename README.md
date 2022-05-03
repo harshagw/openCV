@@ -1,6 +1,6 @@
 # Open CV Projects
 
-I was always interested on OPENCV. So I learnt the basics and build a color detecton using it.
+I was always interested in OPENCV. So I learnt the basics and build a color detecton app using it.
 
 ### image_basics.py
 
